@@ -47,6 +47,9 @@ header{
    
     
 }
+.titulo{
+    padding: 30px;
+}
 h1{
     font-size: 30px;
     padding: 30px;
@@ -136,8 +139,10 @@ nav{
     text-shadow:none;
     font-family: 'Android';
     font-family: 'Android';
+    padding: 10px;
    
 }
+
 
 
 
@@ -213,6 +218,7 @@ main p {
 aside > ul{
     list-style-position: inside;
     columns: 2;
+    text-align: justify;
  
    
 
@@ -222,8 +228,16 @@ aside > ul{
     margin-block-end: 2em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
-    padding-inline-start: 40px;
+    
+    
 }
+
+.lista{
+  
+}
+
+
+
 
 aside > p {
     margin: 15px 0px;
@@ -266,11 +280,6 @@ footer > p{
     
 
     
-}
-abbr{
-    
-
- list-style-position: inside;
 }
 
 
